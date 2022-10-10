@@ -32,8 +32,8 @@ export default [
   {
     name: '曦杨小破站', // 站点名称
     desc: '一个前端菜鸡的笔记', // 站点描述
-    link: 'https://xiyang6.gitee.io/', // 站点地址
-    thumbnail: 'https://s1.ax1x.com/2022/07/26/jzTwvt.png' // 站点图片链接
+    link: 'https://xiyang66.github.io/', // 站点地址
+    thumbnail: 'https://s1.ax1x.com/2022/09/30/xuJ228.png' // 站点图片链接
   },
   {
     name: '木木的秘密花园', // 站点名称
